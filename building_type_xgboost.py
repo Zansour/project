@@ -28,9 +28,9 @@ importlib.reload(graph)
 # =============================================================================
 # 원본 데이터 불러오기 및 데이터 병합
 # =============================================================================
-building_info = pd.read_csv('building_info.csv')
-train_df = pd.read_csv('train.csv')
-test_df = pd.read_csv('test.csv')
+building_info = pd.read_csv('csv/building_info.csv')
+train_df = pd.read_csv('csv/train.csv')
+test_df = pd.read_csv('csv/test.csv')
 
 # 컬럼명 영어로 변환
 train_df = utils.KortoEng_column(train_df)
