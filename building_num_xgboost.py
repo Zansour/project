@@ -1,7 +1,4 @@
 # -*- coding: utf-8 -*-
-import os
-os.chdir("C:/Users/Cha/Documents/power_prediction")
-
 # 필요 모듈 불러오기
 import numpy as np
 import pandas as pd
@@ -31,9 +28,9 @@ importlib.reload(graph)
 # =============================================================================
 # 원본 데이터 불러오기 및 데이터 병합
 # =============================================================================
-building_info = pd.read_csv('building_info.csv')
-train_df = pd.read_csv('train.csv')
-test_df = pd.read_csv('test.csv')
+building_info = pd.read_csv('csv/building_info.csv')
+train_df = pd.read_csv('csv/train.csv')
+test_df = pd.read_csv('csv/test.csv')
 
 # 컬럼명 영어로 변환
 train_df = utils.KortoEng_column(train_df)
