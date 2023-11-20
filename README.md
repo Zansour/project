@@ -35,11 +35,11 @@
 ### 2-2. EDA
 
 - 건물유형별 일별 평균 전력소비량
-
+![건물유형별 일별 평균 전력소비량](./images/mean power consumption by day and building type.png)
 
 - 건물유형별 각 건물의 시간대별 전력소비량
 
-![mean power consumption by day (Apartment).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d6794106-4db9-4a5b-a82c-30aa624fd96a/0ae6c3db-f479-498f-afeb-e8466e1f050e/mean_power_consumption_by_day_(Apartment).png)
+![mean power consumption by day (Apartment).png](./images/mean power consumption by day (Apartment).png)
 
 ![mean power consumption by day (Commercial).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d6794106-4db9-4a5b-a82c-30aa624fd96a/790865a3-3487-4270-9586-def709e17e88/mean_power_consumption_by_day_(Commercial).png)
 
