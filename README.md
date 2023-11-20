@@ -40,22 +40,14 @@
 ![mean power consumption by day (Commercial).png](https://github.com/Zansour/project/blob/main/images/mean%20power%20consumption%20by%20day%20(Commercial).png)
 ![mean power consumption by day (Data).png](https://github.com/Zansour/project/blob/main/images/mean%20power%20consumption%20by%20day%20(Data).png)
 ![mean power consumption by day (Department).png](https://github.com/Zansour/project/blob/main/images/mean%20power%20consumption%20by%20day%20(Department).png)
-
-![mean power consumption by day (Hospital).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d6794106-4db9-4a5b-a82c-30aa624fd96a/62d882ea-52c9-403d-b284-56e0739b3f7c/mean_power_consumption_by_day_(Hospital).png)
-
-![mean power consumption by day (Hotel).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d6794106-4db9-4a5b-a82c-30aa624fd96a/2be989b9-3836-4f7a-a0a8-ecc5d6ac59b0/mean_power_consumption_by_day_(Hotel).png)
-
-![mean power consumption by day (Know&Indus).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d6794106-4db9-4a5b-a82c-30aa624fd96a/1279c4d8-4fbf-478d-a67d-a70433bf90ba/mean_power_consumption_by_day_(KnowIndus).png)
-
-![mean power consumption by day (Mart).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d6794106-4db9-4a5b-a82c-30aa624fd96a/ee89e5fb-2df3-488f-bf6f-fc4f21a36962/mean_power_consumption_by_day_(Mart).png)
-
-![mean power consumption by day (University).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d6794106-4db9-4a5b-a82c-30aa624fd96a/6da1d07e-7b2f-480e-b7b4-f196eff35046/mean_power_consumption_by_day_(University).png)
-
-![mean power consumption by day (Research).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d6794106-4db9-4a5b-a82c-30aa624fd96a/c58c67af-ad87-4363-9f1a-9af447c6c9e1/mean_power_consumption_by_day_(Research).png)
-
-![mean power consumption by day (Public).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d6794106-4db9-4a5b-a82c-30aa624fd96a/b0e53dcd-159a-40cb-a9cc-72e39df2a03d/mean_power_consumption_by_day_(Public).png)
-
-![mean power consumption by day (Other).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d6794106-4db9-4a5b-a82c-30aa624fd96a/f4dc2834-3dd2-41dc-88d8-57384c4f19ae/mean_power_consumption_by_day_(Other).png)
+![mean power consumption by day (Hospital).png](https://github.com/Zansour/project/blob/main/images/mean%20power%20consumption%20by%20day%20(Hospital).png)
+![mean power consumption by day (Hotel).png](https://github.com/Zansour/project/blob/main/images/mean%20power%20consumption%20by%20day%20(Hotel).png)
+![mean power consumption by day (Know&Indus).png](https://github.com/Zansour/project/blob/main/images/mean%20power%20consumption%20by%20day%20(Know%26Indus).png)
+![mean power consumption by day (Mart).png](https://github.com/Zansour/project/blob/main/images/mean%20power%20consumption%20by%20day%20(Mart).png)
+![mean power consumption by day (University).png](https://github.com/Zansour/project/blob/main/images/mean%20power%20consumption%20by%20day%20(University).png)
+![mean power consumption by day (Research).png](https://github.com/Zansour/project/blob/main/images/mean%20power%20consumption%20by%20day%20(Research).png)
+![mean power consumption by day (Public).png](https://github.com/Zansour/project/blob/main/images/mean%20power%20consumption%20by%20day%20(Public).png)
+![mean power consumption by day (Other).png](https://github.com/Zansour/project/blob/main/images/mean%20power%20consumption%20by%20day%20(Other).png)
 
 ### 2-3.  독립변수 추가
 
@@ -94,7 +86,7 @@ train_df['sin_wday'] = np.sin(2*np.pi*train_df['weekday']/6)
 - 건물유형별 요일별 최대 전력량
 - 건물유형별 전력 주사용 시간대(working hour)별 최대 전력량
 
-![Figure_1.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d6794106-4db9-4a5b-a82c-30aa624fd96a/5a4da043-ac1c-4297-b365-62d217ab00b4/Figure_1.png)
+![mean power consumption by hour of day and building type.png](https://github.com/Zansour/project/blob/main/images/mean%20power%20consumption%20by%20hour%20of%20day%20and%20building%20type.png)
 
 - 건물유형별 시간별 전력량 그래프상, 건물유형별 전력량이 일정 수준 이상인 시간대가 존재했습니다. 
 (예를 들어, 데이터 센터는 전력량이 일정하지만, 백화점 및 아울렛의 경우 영업 시간인 10시부터 7시까지가 전력량이 일정 수준 이상인 피크 시간대로 보입니다.)
