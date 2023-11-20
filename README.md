@@ -100,17 +100,14 @@ train_df['sin_wday'] = np.sin(2*np.pi*train_df['weekday']/6)
 
 - 대형마트의 일별 전력량 평균
 
-![mean power consumption by day (building85).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d6794106-4db9-4a5b-a82c-30aa624fd96a/ed59467e-6c2a-4b1c-81ab-09ded3566b1c/mean_power_consumption_by_day_(building85).png)
+![mean power consumption by day (building85).png](https://github.com/Zansour/project/blob/main/images/mean%20power%20consumption%20by%20day%20(building85).png)
 
-![mean power consumption by day (building86).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d6794106-4db9-4a5b-a82c-30aa624fd96a/81b83efe-bd20-4b4b-875e-d8619161851f/mean_power_consumption_by_day_(building86).png)
+![mean power consumption by day (building86).png](https://github.com/Zansour/project/blob/main/images/mean%20power%20consumption%20by%20day%20(building86).png)
 
-![mean power consumption by day (building87-92).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d6794106-4db9-4a5b-a82c-30aa624fd96a/93659979-e0d2-493f-973a-90470c549589/mean_power_consumption_by_day_(building87-92).png)
+![mean power consumption by day (building87-92).png](https://github.com/Zansour/project/blob/main/images/mean%20power%20consumption%20by%20day%20(building87-92).png)
 
-(7) 냉방면적 비율
 
 ## 📊 3. 모델링
-
----
 
 ### 3-1. 평가 Metric인 SMAPE
 
