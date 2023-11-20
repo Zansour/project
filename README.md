@@ -32,7 +32,7 @@
 ### 2-2. EDA
 
 - 건물유형별 일별 평균 전력소비량
-![건물유형별 일별 평균 전력소비량](./images/mean power consumption by day and building type.png)
+
 
 - 건물유형별 각 건물의 시간대별 전력소비량
 
