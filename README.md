@@ -36,12 +36,9 @@
 
 - 건물유형별 각 건물의 시간대별 전력소비량
 
-![mean power consumption by day (Apartment).png](https://https://github.com/Zansour/project/blob/main/images/mean%20power%20consumption%20by%20day%20(Apartment).png))
-
+![mean power consumption by day (Apartment).png](https://github.com/Zansour/project/blob/main/images/mean%20power%20consumption%20by%20day%20(Apartment).png)
 ![mean power consumption by day (Commercial).png](https://github.com/Zansour/project/blob/main/images/mean%20power%20consumption%20by%20day%20(Commercial).png)
-
 ![mean power consumption by day (Data).png](https://github.com/Zansour/project/blob/main/images/mean%20power%20consumption%20by%20day%20(Data).png)
-
 ![mean power consumption by day (Department).png](https://github.com/Zansour/project/blob/main/images/mean%20power%20consumption%20by%20day%20(Department).png)
 
 ![mean power consumption by day (Hospital).png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d6794106-4db9-4a5b-a82c-30aa624fd96a/62d882ea-52c9-403d-b284-56e0739b3f7c/mean_power_consumption_by_day_(Hospital).png)
