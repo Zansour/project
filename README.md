@@ -36,7 +36,6 @@
 
 - 건물유형별 일별 평균 전력소비량
 
-![mean power consumption by day and building type.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/d6794106-4db9-4a5b-a82c-30aa624fd96a/09d097c5-9735-4e80-a87b-5d8889bb16e8/mean_power_consumption_by_day_and_building_type.png)
 
 - 건물유형별 각 건물의 시간대별 전력소비량
 
